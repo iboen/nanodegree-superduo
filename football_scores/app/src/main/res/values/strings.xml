@@ -40,4 +40,17 @@
 
     <string name="card_contentdescription">%1$s vs %2$s. Time: %3$s. Score: %4$s</string>
     <string name="card_contentdescription_noscore">%1$s vs %2$s. Time: %3$s. No score yet.</string>
+
+    <string name="league_seriea">Seria A</string>
+    <string name="league_premier">Premier League</string>
+    <string name="league_champions">UEFA Champions League</string>
+    <string name="league_primera">Primera Division</string>
+    <string name="league_bundesliga">Bundesliga</string>
+    <string name="league_unknown">Unknown League</string>
+    <string name="champion_groupstages">Group Stages, Matchday : 6</string>
+    <string name="champion_firstknockout">First Knockout round</string>
+    <string name="champion_quarter">QuarterFinal</string>
+    <string name="champion_semifinal">SemiFinal</string>
+    <string name="champion_final">Final</string>
+    <string name="matchday">"Matchday"</string>
 </resources>
